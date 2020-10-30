@@ -1,0 +1,4 @@
+This is my first python project using Django framework. Here I made an imaginary fruit's shop 
+where the items will be very easily added and managed by the admin. The Django Admin panel is 
+provided with really easy and user friendly GUI. All the items are connected with a database using 
+sqlite library. Also a discount function for the cart products was added.
